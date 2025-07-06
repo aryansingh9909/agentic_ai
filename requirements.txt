@@ -1,3 +1,20 @@
 ipykernel==6.29.5
 numpy==2.3.1
 pandas==2.3.0
+pydantic==2.11.7
+langchain==0.3.26
+python-dotenv==1.1.1
+langchain-community==0.3.26
+pypdf==5.7.0
+bs4==0.0.2
+arxiv-2.2.0
+pymupdf-1.26.3
+langchain-text-splitters  # this is already satisfied by langchain-community
+# langchain-openai   # this is used if you want to use OpenAI models
+# chromadb     # this is used for vector databases, you can use langchain_chroma instead of this.
+# langchain_chrma # this is used for ChromaDB vector database  if using this, you don't need chromadb
+# sentence_transformers    #
+# langchain_huggingface    # this is used for Hugging Face models
+# faiss-cpu     # this is used for vector databases
+# faiss-gpu     # this is used for vector databases for cloud
+
