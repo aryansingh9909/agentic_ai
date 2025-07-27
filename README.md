@@ -6,4 +6,5 @@
     - conda activate <env_name>
     - Conda deactivate
 
+### RAG - Retrival Augmented Generation
 ![ RAG ](data/image.png)
